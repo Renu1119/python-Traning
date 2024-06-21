@@ -1,0 +1,5 @@
+L=[4,4,4,4,4]
+print(id(L[0]))
+print(id(L[1]))
+print(id(L[2]))
+print(id(L[3]))
